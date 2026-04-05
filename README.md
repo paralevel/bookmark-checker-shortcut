@@ -1,5 +1,7 @@
 # Bookmark Checker (shortcut)
 
+https://www.icloud.com/shortcuts/eb0a09fe9a1141e29bcff987f1b55752
+
 A shortcut for iOS and macOS that looks for the current URL in your bookmarks and presents the result. 
 
 Finds variant URLs that end/don't end with an anchor/URI fragment or a "/", and also URLs with the same title – useful for example when the URL has been changed since the page was bookmarked (not available in clipboard/manual mode). 
