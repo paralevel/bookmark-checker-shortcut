@@ -1,11 +1,13 @@
 # Bookmark Checker (shortcut)
 
-https://www.icloud.com/shortcuts/eb0a09fe9a1141e29bcff987f1b55752
+Version 2.0: https://www.icloud.com/shortcuts/ecc2c8b40a77458480d32788f2a44bb6 <sub>[(Version 1.0)](https://www.icloud.com/shortcuts/eb0a09fe9a1141e29bcff987f1b55752)</sub>
 
-A shortcut for iOS and macOS that looks for the current URL in your bookmarks and presents the result. 
+Shortcut for iOS and macOS that searches for the current web page in your bookmarks. Also finds variant URLs that end/don't end with an anchor/URI fragment or a "/", and also URLs with the same title – useful for example when the URL has been changed since the page was bookmarked. On iOS, the shortcut only works from the Share menu in Safari – on macOS, it works both independently and from the Share menu.
 
-Finds variant URLs that end/don't end with an anchor/URI fragment or a "/", and also URLs with the same title – useful for example when the URL has been changed since the page was bookmarked (not available in clipboard/manual mode). 
+Options
+- Add page to bookmarks
+- Delete bookmarks
+- Open “Bookmarks”
 
-You can run the shortcut either from the current web page's share menu, or as a standalone shortcut. Due to limitations on iOS, it's not possible to detect the current URL if you run the shortcut standalone, but you can instead use the first URL that's found in your clipboard or enter a URL manually. 
 
-On macOS, the shortcut automatically switches to clipboard/manual mode when the current tab is the start page, history page or the bookmarks editor page.
+
