@@ -5,7 +5,7 @@ Version 2.0: https://www.icloud.com/shortcuts/b59bbfdbd0954fe5a8b8a9df9ef89464 <
 Shortcut for iOS and macOS that searches for the current Safari web page in your bookmarks. Finds variant URLs that end/don’t end with an anchor/URI fragment or a “/”, and also URLs with the same title – useful for example when the URL has been changed since the page was bookmarked. On iOS, the shortcut only works from the Share menu in Safari – on macOS, it works both independently and from Safari’s Share menu.
 
 Options
-- Add page to bookmarks
+- Bookmark page
 - Select bookmarks to delete
 - Open “Bookmarks”
 
