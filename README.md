@@ -6,8 +6,10 @@ Shortcut for iOS and macOS that searches for the current Safari web page in your
 
 Options
 - Bookmark page
-- Select bookmarks to be removed <sub>(note: it's currently not possible to detect the containing folder of the bookmark in Shortcuts app)</sub>
+- Select bookmarks to be removed
 - Open “Bookmarks”
 
-
+Notes
+- When deleting bookmarks, it's currently not possible to display which folder a bookmark is in – if that's important, use the “Open ‘Bookmarks’” option instead
+- The last bookmark listed is the earliest one bookmarked
 
