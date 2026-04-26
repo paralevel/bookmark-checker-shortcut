@@ -9,8 +9,7 @@ Options
 - Select bookmarks to be deleted
 - Open “Bookmarks”
 
-Notes
+Notes about the bookmark deletion option
+- Bookmarks are listed without any indication of what the containing folder is (it's not technically possible to detect for the time being) – if that's important, use the “Open ‘Bookmarks’” option instead
 - The last bookmark listed is the earliest one bookmarked
-- In the bookmark deletetion dialog, bookmarks are listed without any indication of what the containing folder is (it's not technically possible to detect for the time being) – if that's important, use the “Open ‘Bookmarks’” option instead
-
 
