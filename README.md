@@ -10,6 +10,6 @@ Options
 - Open “Bookmarks”
 
 Notes
-- When deleting bookmarks, it's currently not possible to display which folder a bookmark is in – if that's important, use the “Open ‘Bookmarks’” option instead
+- In the bookmark deletetion dialog, bookmarks are listed without any indication of what the containing folder is, because that's not technically possible to detect for the time being – if that's important, use the “Open ‘Bookmarks’” option instead
 - The last bookmark listed is the earliest one bookmarked
 
