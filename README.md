@@ -6,7 +6,7 @@ Shortcut for iOS and macOS that searches for the current Safari web page in your
 
 Options
 - Bookmark page
-- Select bookmarks to be removed
+- Select bookmarks to be deleted
 - Open “Bookmarks”
 
 Notes
