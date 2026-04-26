@@ -10,6 +10,6 @@ Options
 - Open “Bookmarks”
 
 Notes about the bookmark deletion option
-- Bookmarks are listed without any indication of what the containing folder is (it's not technically possible to detect for the time being) – if that's important, use the “Open ‘Bookmarks’” option instead
-- The last bookmark listed is the earliest one bookmarked
+- Due to technical limitations, bookmarks are listed without any indication of what the containing folder is – if that's important, instead use the “Open ‘Bookmarks’” option and search for the page URL manually
+- The bookmarks are listed from the last to the earliest bookmarked
 
